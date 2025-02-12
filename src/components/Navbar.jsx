@@ -6,7 +6,9 @@ import { logo, menu, close } from "../assets";
 
 const Navbar = () => {
   return (
-    <nav></nav>
+    <nav>
+      
+    </nav>
   )
 }
 
